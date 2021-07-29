@@ -13,7 +13,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
    * image processing
 * [Pedestrian Removing Application]
    * image processing
-* [Breakout Game]
+* [Breakout Game](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/break_out_game/breakout.py)
    * animation & game designing
 * [Name Popularity Searching System](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
   * data structure
