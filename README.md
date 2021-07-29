@@ -7,7 +7,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 ## Project Source Code:
 * [Hangman Game]
    * python semantics & syntax
-* [Weather Master]
+* [Weather Master](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/weather_master/weather_master.py)
    * python semantics & syntax
 * [MyPhotoshop](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/my_photoshop/best_photoshop_award.py)
    * image processing
