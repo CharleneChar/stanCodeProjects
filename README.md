@@ -15,7 +15,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
    * image processing
 * [Breakout Game]
    * animation & game designing
-* [Name Popularity Searching System]
+* [Name Popularity Searching System](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/name_searching_system/babygraphics.py)
   * data structure
 * [Boggle Game Solver](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive functions
