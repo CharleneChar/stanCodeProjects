@@ -4,7 +4,7 @@ Adapted from Eric Roberts's Breakout by
 Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
 and Jerry Liao.
 
-This program creates a game for clearing bricks using a ball and a paddle.
+This program creates a game of clearing bricks using a ball and a paddle.
 """
 
 from campy.gui.events.timer import pause
