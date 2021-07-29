@@ -17,5 +17,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
    * animation & game designing
 * [Name Popularity Searching System]
   * data structure
-* [Boggle Game Solver]
+* [Boggle Game Solver](https://github.com/CharleneChar/stanCodeProjects/blob/main/stanCode_Projects/boggle_game_solver/boggle.py)
   * recursive functions
